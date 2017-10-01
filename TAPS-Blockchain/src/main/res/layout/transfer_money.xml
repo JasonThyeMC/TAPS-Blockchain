@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#0c5b9c">
+
+    <TextView
+        android:text="Transfer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:id="@+id/transactionAction"
+        android:fontFamily="sans-serif-thin-bold"
+        android:gravity="center"
+        android:paddingBottom="55dp"
+        android:paddingTop="10dp" />
+
+    <TextView
+        android:text="$50.00"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif"
+        android:textSize="50dp"
+        android:id="@+id/amount"
+        android:gravity="center"
+        android:paddingBottom="10dp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="34dp">
+
+        <Button
+            android:text="Change Amount"
+            android:layout_width="wrap_content"
+            android:id="@+id/button"
+            android:gravity="center_vertical|center_horizontal|center"
+            android:textSize="12dp"
+            android:background="@drawable/btn_rounded"
+            android:fontFamily="sans-serif-bold"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:textAllCaps="false"
+            android:layout_height="40dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" />
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1">
+
+            <TextView
+                android:text="From"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/transactFrom"
+                android:fontFamily="sans-serif-light"
+                android:paddingTop="16dp"
+                android:paddingLeft="16dp" />
+
+            <TextView
+                    android:text="Maybank Account Balance"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="16dp"
+                    android:id="@+id/sourceFund"
+                    android:fontFamily="sans-serif-bold"
+                    android:paddingLeft="16dp"
+                    android:paddingTop="16dp"
+                android:gravity="center_vertical" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="sans-serif-light"
+                android:id="@+id/availableFunds"
+                android:paddingTop="16dp"
+                android:paddingLeft="16dp"
+                android:paddingBottom="16dp" />
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="60dp"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/single_right"
+            android:id="@+id/fromRIght"
+            android:layout_weight="1"
+            android:layout_gravity="center_vertical"
+            android:paddingTop="16dp"
+            android:paddingRight="16dp" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1">
+
+            <TextView
+                android:text="To"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/transactTo"
+                android:fontFamily="sans-serif-light"
+                android:paddingTop="16dp"
+                android:paddingLeft="16dp" />
+
+            <TextView
+                android:text="Public Bank Current Account"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="sans-serif-bold"
+                android:textSize="16dp"
+                android:id="@+id/destinationFund"
+                android:paddingLeft="16dp"
+                android:paddingTop="16dp" />
+
+            <TextView
+                android:text="Can take up to 5 days"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="sans-serif-light"
+                android:id="@+id/transactionDuration"
+                android:paddingTop="16dp"
+                android:paddingLeft="16dp" />
+        </LinearLayout>
+
+        <ImageView
+            android:layout_height="match_parent"
+            app:srcCompat="@drawable/single_right"
+            android:id="@+id/toRight"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:paddingTop="16dp"
+            android:paddingRight="16dp"
+            android:layout_width="60dp" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="0dp">
+
+        <Button
+            android:text="Send Now"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/actionBtn"
+            android:background="@drawable/ripple"
+            android:fontFamily="sans-serif-bold"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_margin="0dp" />
+
+    </RelativeLayout>
+
+</LinearLayout>
+

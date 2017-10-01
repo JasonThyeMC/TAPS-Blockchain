@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/lib/com.TAPS.blockchain.app"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#c8d1d5">
+
+    <TextView
+        android:text="PAY"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/pay"
+        android:textColor="#000000"
+        android:paddingTop="20dp"
+        android:textSize="14dp"
+        android:fontFamily="sans-serif-thin-bold"
+        android:layout_gravity="center_horizontal" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                app:srcCompat="@drawable/scale_dining"
+                android:background="@drawable/white_round_background"
+                tools:ignore="MissingPrefix"
+                android:id="@+id/diningIcon"
+                android:layout_marginTop="16dp"
+                android:layout_marginBottom="16dp" />
+
+            <TextView
+                android:text="Dining"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="sans-serif-thin"
+                android:textColor="#000000"
+                android:id="@+id/diningText"
+                android:layout_gravity="center_horizontal"
+                android:paddingBottom="20dp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/scale_shopping"
+                android:id="@+id/shoppingIcon"
+                tools:ignore="MissingPrefix"
+                android:background="@drawable/white_round_background"
+                android:layout_marginTop="16dp"
+                android:layout_marginBottom="16dp"/>
+
+            <TextView
+                android:text="Shopping"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000000"
+                android:fontFamily="sans-serif-thin"
+                android:id="@+id/shoppingText"
+                android:layout_gravity="center_horizontal"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/scale_parking"
+                android:layout_gravity="center_horizontal"
+                tools:ignore="MissingPrefix"
+                android:background="@drawable/white_round_background"
+                android:id="@+id/parkingIcon"
+                android:layout_marginTop="16dp"
+                android:layout_marginBottom="16dp"/>
+
+            <TextView
+                android:text="Parking"
+                android:layout_width="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:textColor="#000000"
+                android:fontFamily="sans-serif-thin"
+                android:layout_height="wrap_content"
+                android:id="@+id/parkingText" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

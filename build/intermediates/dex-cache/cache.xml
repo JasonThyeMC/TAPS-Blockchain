@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/thyemunchun/.android/build-cache/da5b87a5fa7aa7443692076db0fdce34b560135c/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/thyemunchun/Documents/TAPS Blockchain App/TAPS-Blockchain/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_bb0eed6a8b9b22a2799b3b4813031d75ba5f62ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thyemunchun/.gradle/caches/modules-2/files-2.1/com.squareup.moshi/moshi/1.3.1/bd07892e5380af4eba1c8900556cae953815f46d/moshi-1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bd07892e5380af4eba1c8900556cae953815f46d">
+        <dex dex="/Users/thyemunchun/Documents/TAPS Blockchain App/TAPS-Blockchain/build/intermediates/transforms/dex/debug/folders/1000/10/moshi-1.3.1_b33b224d0f8cd6e52699f86a976dee02798c888e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thyemunchun/.android/build-cache/e33b62336eec1bed28de28cd57a61fca8f5a69ec/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="/Users/thyemunchun/Documents/TAPS Blockchain App/TAPS-Blockchain/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2d863e2826f7f13df078151a18f45521eb70a798/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thyemunchun/.android/build-cache/ab469c3e11242975bc6f6ac3b07f5e064f095303/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/thyemunchun/Documents/TAPS Blockchain App/TAPS-Blockchain/build/intermediates/transforms/dex/debug/folders/1000/10/classes_91b4229daeeefd739ea2a471bbb0d882a4da1abb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thyemunchun/.android/build-cache/b83c534eeee07c379bb566f757ce27f622686af8/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/thyemunchun/Documents/TAPS Blockchain App/TAPS-Blockchain/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_c7e1e0a2f6256f1dd17b78899e46dd506129c20a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thyemunchun/.android/build-cache/46d797484dc14df86f5656733a102e0cd084e00e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/Users/thyemunchun/Documents/TAPS Blockchain App/TAPS-Blockchain/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2fc2964fd8316eef30e60548a53d5a35d4b55d9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thyemunchun/Documents/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/thyemunchun/Documents/TAPS Blockchain App/TAPS-Blockchain/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_285fdae3a8780606a1ce626994d03a09d4e95bf3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thyemunchun/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/f1bc476cc167b18e66c297df599b2377131a8947/gson-2.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="/Users/thyemunchun/Documents/TAPS Blockchain App/TAPS-Blockchain/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.2_4cfcafb8f4266e899eed2a975c3245fff2e99644/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thyemunchun/.android/build-cache/620fe846e1ae6fe9ce692c94fedb40a26787fd70/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8795af3e130206443f2d5ed45f1b26067aff70dc">
+        <dex dex="/Users/thyemunchun/Documents/TAPS Blockchain App/TAPS-Blockchain/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2b089ac5da2435265d869e5d80c7f6fcfaa1ce39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thyemunchun/.android/build-cache/b8e5e40b2e7c820178fb15545099b46d30ecca26/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/thyemunchun/Documents/TAPS Blockchain App/TAPS-Blockchain/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e1a8b0c021f8a54f6cfb9aba4da07f7ef2800b56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thyemunchun/.android/build-cache/6bf0351f9a9832cee66dcfb05b585fea55cd549a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/thyemunchun/Documents/TAPS Blockchain App/TAPS-Blockchain/build/intermediates/transforms/dex/debug/folders/1000/10/classes_17ed06da2ea55ae712770f92615e85069f852479/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thyemunchun/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/Users/thyemunchun/Documents/TAPS Blockchain App/TAPS-Blockchain/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.11.0_dfeb8039628e2323bc8cec45244e1e63e728517d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thyemunchun/.android/build-cache/96984b3cdea6d6fe0d90b30c55ee131195e973cb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/thyemunchun/Documents/TAPS Blockchain App/TAPS-Blockchain/build/intermediates/transforms/dex/debug/folders/1000/10/classes_281946a913963edd12a421d08f1bde06c915cda9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thyemunchun/.android/build-cache/f8af7683c2782aabcba48ceee2ad98d1a3fada6c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/thyemunchun/Documents/TAPS Blockchain App/TAPS-Blockchain/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0519dbd1ae1eaed05234d3ddb0378476b99083ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thyemunchun/.android/build-cache/ab469c3e11242975bc6f6ac3b07f5e064f095303/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/thyemunchun/Documents/TAPS Blockchain App/TAPS-Blockchain/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_bde0aaeff2aef9cc8c626a8b18ee0d59c7268964/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thyemunchun/.android/build-cache/bdf5212a8326d494e1c74ea3d0c2c3b5c007d2c5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/Users/thyemunchun/Documents/TAPS Blockchain App/TAPS-Blockchain/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4bf520d0c9d8aa98e8b7ee81e1147ef87e8b7d93/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thyemunchun/.android/build-cache/b7422ddee725f7201481d3755c4260f21e893949/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cf5e2940501f8f7b9175df6491cebb84f5690f14">
+        <dex dex="/Users/thyemunchun/Documents/TAPS Blockchain App/TAPS-Blockchain/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1942c3293fe47f7ac4d7d6b75d0568f6de6ef92b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thyemunchun/.android/build-cache/5bfc911b59b52b6571cc68b81d25a4d061010f1d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/thyemunchun/Documents/TAPS Blockchain App/TAPS-Blockchain/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2c6975f35eb3484b6fd69604b19892c6beec4248/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thyemunchun/.android/build-cache/465680e813618d7ea1a6689da31d27cf47ed0532/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="/Users/thyemunchun/Documents/TAPS Blockchain App/TAPS-Blockchain/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9abe68878a14ad499d9e5e79fb5d7b48dd767669/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thyemunchun/.android/build-cache/a9b0d6d2bef1a9158535645a414e1bbb11205936/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/thyemunchun/Documents/TAPS Blockchain App/TAPS-Blockchain/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8b9e55207364bf447e54c97d58689cdadb5c34d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thyemunchun/.android/build-cache/d654a63f08ef5068234cb791ff01295278c4f5b5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="/Users/thyemunchun/Documents/TAPS Blockchain App/TAPS-Blockchain/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3929b2019c24d559bc64479dea25f419fcea5fa3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thyemunchun/.android/build-cache/da5b87a5fa7aa7443692076db0fdce34b560135c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/thyemunchun/Documents/TAPS Blockchain App/TAPS-Blockchain/build/intermediates/transforms/dex/debug/folders/1000/10/classes_feb08f09df3fe42fe3a20c03400e626a6ff936c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thyemunchun/.android/build-cache/d0c7d9be9ece12e5ee0966bec7f4638b05e3803a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="/Users/thyemunchun/Documents/TAPS Blockchain App/TAPS-Blockchain/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ad47dc999ff3af814bd9fd2f9bce12ea2b91febb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thyemunchun/.android/build-cache/02aad9c77104a6442a97234cae800c71e3139cc6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d237556caead5b93d97e18a071059a2c0045978e">
+        <dex dex="/Users/thyemunchun/Documents/TAPS Blockchain App/TAPS-Blockchain/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a7b9b95c5fa529d53b4e643e20fdae711c0452c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thyemunchun/.android/build-cache/d651c1032f0484aa7fe512602fadde5b23bcd929/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/thyemunchun/Documents/TAPS Blockchain App/TAPS-Blockchain/build/intermediates/transforms/dex/debug/folders/1000/10/classes_391acf5403ad3ec002603f0fa8331a7a472a7f16/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thyemunchun/.android/build-cache/f8af7683c2782aabcba48ceee2ad98d1a3fada6c/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/thyemunchun/Documents/TAPS Blockchain App/TAPS-Blockchain/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_7b95d7362cd555dc82fc48864ce57363f047ba09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thyemunchun/.android/build-cache/1ae7257199ef38f31466f05a378bff6c06dc2ade/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/Users/thyemunchun/Documents/TAPS Blockchain App/TAPS-Blockchain/build/intermediates/transforms/dex/debug/folders/1000/10/classes_85c362b54d7253322014c3b69bd4fd52ec0eb4a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thyemunchun/.android/build-cache/e2bde6e0040c083d266e5ba928f530d61cf6b76b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8379364a29bdaff9241361fd86b0248cc9d3bbbe">
+        <dex dex="/Users/thyemunchun/Documents/TAPS Blockchain App/TAPS-Blockchain/build/intermediates/transforms/dex/debug/folders/1000/10/classes_69d6a11b92798f356e71a9db2e4cf868f5fa924b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thyemunchun/.android/build-cache/6bf7bb4827cfaaa5b6abdd0b1ab5cb94dae81f67/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/thyemunchun/Documents/TAPS Blockchain App/TAPS-Blockchain/build/intermediates/transforms/dex/debug/folders/1000/10/classes_25753dc2fbeee9ab122169cd3e9c9e5c5718bf9d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thyemunchun/Documents/TAPS Blockchain App/TAPS-Blockchain/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/thyemunchun/Documents/TAPS Blockchain App/TAPS-Blockchain/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_664c7d6f03dfb4f446287fda5c9cc13628e51c47/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thyemunchun/.android/build-cache/0bf3327127319112fd7c8e85d07c9ed7eabe1b6b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c77602d43223db798b1ca56cf307ab0ee3c0e63f">
+        <dex dex="/Users/thyemunchun/Documents/TAPS Blockchain App/TAPS-Blockchain/build/intermediates/transforms/dex/debug/folders/1000/10/classes_483c267f5d3ff73c810d06dfd2268e75d06ffde0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thyemunchun/Documents/TAPS Blockchain App/TAPS-Blockchain/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="099a5c9ea0aefcfc033dc2e76185da9f3230d976">
+        <dex dex="/Users/thyemunchun/Documents/TAPS Blockchain App/TAPS-Blockchain/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9e708a7d16a31b90f68c9d29d23228a4701d9418/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thyemunchun/.android/build-cache/c7ea9884a626f5fd4d768e05f96f1c1734ab6a22/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5bf70f3683146e4875c006624543cb0a13eac91">
+        <dex dex="/Users/thyemunchun/Documents/TAPS Blockchain App/TAPS-Blockchain/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0c5314272af1b9b724a679834d111460bb330389/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thyemunchun/.android/build-cache/0681b88da7f5e6c7c80ad091a478b2e94c62e0b5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/thyemunchun/Documents/TAPS Blockchain App/TAPS-Blockchain/build/intermediates/transforms/dex/debug/folders/1000/10/classes_14a071361583fbccc46d15cd04ba6ab0c4622968/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thyemunchun/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.2/ccde00f7ccc77af5a6d5752e2cb21f6d8998289f/okhttp-3.4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ccde00f7ccc77af5a6d5752e2cb21f6d8998289f">
+        <dex dex="/Users/thyemunchun/Documents/TAPS Blockchain App/TAPS-Blockchain/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.4.2_0310387042517ff089b84106962fdf6372ef2d35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thyemunchun/.android/build-cache/1231c9252bcd33cf7f36485c83fde4e0d51a3634/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="/Users/thyemunchun/Documents/TAPS Blockchain App/TAPS-Blockchain/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dc43c00208f3764a542c50e850bb9949ef1e35a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thyemunchun/.android/build-cache/21ee9e45af51362b909016d5c51efa782b4753f4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b881010e06dc39be15b7465cd16492eedbab246f">
+        <dex dex="/Users/thyemunchun/Documents/TAPS Blockchain App/TAPS-Blockchain/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1c4b4f3d0330246fa6adf6d601ad589656d87429/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thyemunchun/.android/build-cache/b83c534eeee07c379bb566f757ce27f622686af8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/thyemunchun/Documents/TAPS Blockchain App/TAPS-Blockchain/build/intermediates/transforms/dex/debug/folders/1000/10/classes_db0956576ef812f0bec76abe346eae94d460047e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thyemunchun/.android/build-cache/0681b88da7f5e6c7c80ad091a478b2e94c62e0b5/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/thyemunchun/Documents/TAPS Blockchain App/TAPS-Blockchain/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_f7daf0850d689a22f348309397c5950c56e17df3/classes.dex" />
+    </item>
+
+</items>

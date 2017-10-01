@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/lib/com.TAPS.blockchain.app"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#FFC107">
+
+    <TextView
+        android:text="SEND AND REQUEST"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif"
+        android:id="@+id/sendandrequest"
+        android:textSize="14dp"
+        android:layout_gravity="center_horizontal"
+        android:paddingTop="20dp" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            >
+
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/round_background"
+                tools:ignore="MissingPrefix"
+                app:srcCompat="@drawable/scale_send"
+                android:id="@+id/sendIcon"
+                android:layout_marginTop="16dp"
+                android:layout_marginBottom="16dp" />
+
+
+            <TextView
+                android:text="Send Money"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/sendMoney"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="1"
+                android:paddingBottom="20dp" />
+        </LinearLayout>
+
+
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                tools:ignore="MissingPrefix"
+                app:srcCompat="@drawable/scale_req"
+                android:background="@drawable/round_background"
+                android:id="@+id/reqIcon"
+                android:layout_marginTop="16dp"
+                android:layout_marginBottom="16dp"
+                android:layout_gravity="center_horizontal"
+                />
+
+            <TextView
+                android:text="Request Money"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/receiveMoney"
+                android:layout_gravity="center_horizontal"
+                android:paddingBottom="20dp" />
+        </LinearLayout>
+
+
+
+    </LinearLayout>
+
+</LinearLayout>

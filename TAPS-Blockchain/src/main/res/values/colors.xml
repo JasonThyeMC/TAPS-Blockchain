@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="saffron">#107DD1</color>
+    <color name="eggplant">#117F82</color>
+    <color name="sienna">#c8d1d5</color>
+
+    <color name="colorPrimary">#303030</color>
+    <color name="colorPrimaryDark">#303030</color>
+    <color name="colorAccent">#8661C1</color>
+
+    <color name="primary">#2d2d2d</color>
+    <color name="secondary">#FF4081</color>
+    <color name="accent">#33b5e5</color>
+    <color name="divider">#CCC</color>
+    <color name="icons">#FFF</color>
+    <color name="transferMoney">#0c5b9c</color>
+    <color name="item_background">#FFF</color>
+</resources>
